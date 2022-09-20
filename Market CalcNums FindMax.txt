@@ -1,0 +1,11 @@
+Task - 1
+Gonderilmis 3 ededin en boyuyunu tapib qaytaran metod - 3 integer parametr qebul edir ve iclerinde en boyuk hansidirsa onu tapib return edir Eyni sekilde verilmis 4 ve 5 ededin en boyuyunu tapan metodlar da yazin (method overloading)
+
+Task - 2
+Gonderilmis ededin reqemlerinin cemini qaytaran metod - misalcun bu metodu call ederken arqument olaraq 451 gondersek metoddan geriye 10 qayitmalidir
+
+Task - 3
+Supermarketdə belə bir aksiya keçirilir: “İstənilən iki mal alana üçüncüsü pulsuz verilir, ancaq seçilmiş 3 maldan iki ən bahalısının qiyməti ödənilir”.Alınacaq 3 məhsulun qiyməti verilmişdirsə ödəniləcək məbləği hesbalayan metod yazin - yəni metodunuz 3 doubel parameter qebul edib en boyuk ikisinin cemini hesablayib qaytarmalidir
+
+QEYD: 
+butun bu metodlari islederken console-dan deyer qebul ederek emeliyyat aparin ve istifadecini duzgun deyer daxil etmeye mecbur edin.
